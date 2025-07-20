@@ -174,29 +174,6 @@ python your_agent.py dev
 python your_agent.py connect --room your-room-name --token your-token
 ```
 
-## 📚 API Reference
-
-### STT Class
-```python
-class STT:
-    def __init__(
-        self,
-        language: str = "ar"
-    )
-```
-
-### TTS Class
-```python
-class TTS:
-    def __init__(
-        self,
-        speaker: str = "Ali",
-        dialect: str = "pls",
-        mulaw: bool = False,
-        sample_rate: int = 16000
-    )
-```
-
 ## 🆘 Support
 
 - **Documentation**: [docs.tryhamsa.com](https://docs.tryhamsa.com)
