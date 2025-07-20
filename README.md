@@ -200,11 +200,11 @@ class TTS:
 ## 🆘 Support
 
 - **Documentation**: [docs.tryhamsa.com](https://docs.tryhamsa.com)
-- **API Reference**: [api.tryhamsa.com/docs](https://api.tryhamsa.com/docs)
-- **Email**: support@hamsa.ai
+- **API Reference**: [docs.tryhamsa.com/api-reference/introduction](https://docs.tryhamsa.com/api-reference/introduction)
+- **Email**: support@tryhamsa.com
 
 ---
 
 **Built with ❤️ for the Arabic-speaking world**
 
-*Hamsa - Where every dialect speaks the language of understanding*
+*Hamsa - AI Models that Master Arabic Dialects*
